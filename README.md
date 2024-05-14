@@ -20,11 +20,14 @@ The essense of the algorithm is we try combinations optimally where upon we take
 5.  Thus overall running time is reduced to O((2^n/2)n).
 
 ####  Some Problem Based on this Concept:-
-1. https://leetcode.com/problems/split-array-with-same-average/
+1. https://leetcode.com/problems/split-array-with-same-average/             
 2. https://leetcode.com/problems/closest-subsequence-sum/
 3. https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
 4. https://www.codechef.com/problems/INSQ15_C
 5. https://lightoj.com/problem/funny-knapsack
 6. https://lightoj.com/problem/coin-change-iv
+
+
+### Solution - Check the Repo with Q-tag
 
 ## CP Blog - https://codeforces.com/blog/entry/95571
